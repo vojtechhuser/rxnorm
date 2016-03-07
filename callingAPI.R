@@ -9,7 +9,6 @@ library(jsonlite)
 example='atenolol'
 example='bicycle'
 
-input=example
 
 
 #wrapping a call to API into R function
